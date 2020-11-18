@@ -1,0 +1,1 @@
+const rarr = document.querySelector('.ghht');
